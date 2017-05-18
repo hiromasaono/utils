@@ -44,6 +44,7 @@ brew cask install quicklook-csv
 brew cask install quicklook-json
 brew cask install skala-preview
 brew cask install libreoffice
+brew cask install OBS
 
 
 
