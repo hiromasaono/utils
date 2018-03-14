@@ -27,7 +27,7 @@ brew cask install flux
 brew cask install google-photos-backup
 brew cask install gyazo
 brew cask install night-owl
-brew cask install parallels-desktop
+brew cask install parallels
 brew cask install slack
 brew cask install teamviewer
 brew cask install skype
@@ -45,6 +45,7 @@ brew cask install quicklook-json
 brew cask install skala-preview
 brew cask install libreoffice
 brew cask install OBS
+brew cask install vivaldi
 
 
 
