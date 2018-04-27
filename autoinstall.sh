@@ -78,6 +78,7 @@ brew install curl
 brew install pngquant
 brew install youtube-dl
 brew install ffmpeg
+brew install st
 
 
 # 不要なファイルを削除
