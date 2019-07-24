@@ -10,8 +10,6 @@ brew tap homebrew/science # OpenCV
 brew tap caskroom/fonts # fonts
 
 # cask install
-brew cask install java
-# javaは途中でパスワード要求される
 brew cask install google-chrome
 brew cask install google-japanese-ime
 # ※1
@@ -21,7 +19,6 @@ brew cask install vlc
 brew cask install alfred
 brew cask install bettertouchtool
 brew cask install resilio-sync
-brew cask install camtasia
 brew cask install firefox
 brew cask install flux
 brew cask install google-photos-backup
