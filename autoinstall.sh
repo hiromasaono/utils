@@ -11,7 +11,6 @@ brew tap caskroom/fonts # fonts
 
 # cask install
 brew cask install google-chrome
-brew cask install google-japanese-ime
 # ※1
 brew cask install evernote
 brew cask install skype
@@ -21,15 +20,10 @@ brew cask install bettertouchtool
 brew cask install resilio-sync
 brew cask install firefox
 brew cask install flux
-brew cask install google-photos-backup
-brew cask install gyazo
-brew cask install night-owl
 brew cask install parallels
 brew cask install slack
 brew cask install teamviewer
-brew cask install skype
 brew cask install appcleaner
-brew cask install atom
 brew cask install iterm2
 brew cask install rstudio
 brew cask install vlc
@@ -43,6 +37,8 @@ brew cask install skala-preview
 brew cask install libreoffice
 brew cask install OBS
 brew cask install vivaldi
+brew cask install microsoft-edge
+brew cask install visual-studio-code
 
 
 
