@@ -9,35 +9,37 @@ brew tap sanemat/font # Ricty
 brew tap homebrew/science # OpenCV
 brew tap caskroom/fonts # fonts
 
+
 # cask install
-brew cask install google-chrome
+brew install --cask google-chrome
 # ※1
-brew cask install evernote
+brew install --cask evernote
 # brew cask install skype
-brew cask install vlc
-brew cask install alfred
-brew cask install bettertouchtool
-brew cask install resilio-sync
-brew cask install firefox
-brew cask install flux
+brew install --cask vlc
+brew install --cask alfred3
+brew install --cask bettertouchtool
+brew install --cask resilio-sync
+brew install --cask firefox
+brew install --cask flux
 # brew cask install parallels
-brew cask install slack
+brew install --cask slack
 # brew cask install teamviewer
 # brew cask install appcleaner
-brew cask install iterm2
-brew cask install rstudio
-brew cask install betterzipql 
-brew cask install qlcolorcode
-brew cask install qlmarkdown
-brew cask install qlstephen
-brew cask install quicklook-csv
-brew cask install quicklook-json
-brew cask install skala-preview
+brew install --cask iterm2
+brew install --cask rstudio
+brew install --cask betterzipql
+brew install --cask qlcolorcode
+brew install --cask qlmarkdown
+brew install --cask qlstephen
+brew install --cask quicklook-csv
+brew install --cask quicklook-json
+brew install --cask skala-preview
 # brew cask install libreoffice
-brew cask install OBS
-brew cask install vivaldi
-brew cask install microsoft-edge
-brew cask install visual-studio-code
+brew install --cask OBS
+brew install --cask vivaldi
+brew install --cask microsoft-edge
+brew install --cask visual-studio-code
+brew install --cask visidata
 
 
 
