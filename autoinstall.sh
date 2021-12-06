@@ -72,6 +72,7 @@ brew install pngquant
 brew install youtube-dl
 brew install ffmpeg
 brew install st
+brew install visidata
 
 
 # 不要なファイルを削除
