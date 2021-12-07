@@ -8,6 +8,7 @@ brew upgrade
 brew tap sanemat/font # Ricty
 brew tap homebrew/science # OpenCV
 brew tap caskroom/fonts # fonts
+brew tap saulpw/vd #visidata
 
 
 # cask install
@@ -39,10 +40,6 @@ brew install --cask OBS
 brew install --cask vivaldi
 brew install --cask microsoft-edge
 brew install --cask visual-studio-code
-brew install --cask visidata
-
-
-
 
 # build or install
 brew install git
