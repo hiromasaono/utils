@@ -40,6 +40,7 @@ brew install --cask OBS
 brew install --cask vivaldi
 brew install --cask microsoft-edge
 brew install --cask visual-studio-code
+brew install --cask authy
 
 # build or install
 brew install git
