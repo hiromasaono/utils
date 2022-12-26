@@ -17,7 +17,7 @@ brew install --cask google-chrome
 brew install --cask evernote
 # brew cask install skype
 brew install --cask vlc
-brew install --cask alfred3
+brew install --cask alfred5
 brew install --cask bettertouchtool
 brew install --cask resilio-sync
 brew install --cask firefox
@@ -68,7 +68,7 @@ brew install coreutils
 brew install xz
 brew install curl
 brew install pngquant
-brew install youtube-dl
+brew install yt-dlp
 brew install ffmpeg
 brew install st
 brew install visidata
