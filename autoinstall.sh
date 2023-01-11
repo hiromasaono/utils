@@ -31,16 +31,17 @@ brew install --cask rstudio
 brew install --cask betterzipql
 brew install --cask qlcolorcode
 brew install --cask qlmarkdown
-brew install --cask qlstephen
+# brew install --cask qlstephen
 brew install --cask quicklook-csv
 brew install --cask quicklook-json
-brew install --cask skala-preview
+# brew install --cask skala-preview
 # brew cask install libreoffice
 brew install --cask OBS
 brew install --cask vivaldi
 brew install --cask microsoft-edge
 brew install --cask visual-studio-code
 brew install --cask authy
+brew install --cask github
 
 # build or install
 brew install git
@@ -72,6 +73,7 @@ brew install yt-dlp
 brew install ffmpeg
 brew install st
 brew install visidata
+brew install stats
 
 
 # 不要なファイルを削除
