@@ -74,6 +74,11 @@ brew install ffmpeg
 brew install st
 brew install visidata
 brew install stats
+brew install fish 
+brew install lsd
+brew install "delphinus/sfmono-square/sfmono-square"
+  # open "$(brew --prefix sfmono-square)/share/fonts"
+  # open fonts with Finder
 
 
 # 不要なファイルを削除
