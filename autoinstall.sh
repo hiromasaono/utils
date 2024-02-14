@@ -40,7 +40,6 @@ brew install --cask OBS
 brew install --cask vivaldi
 brew install --cask microsoft-edge
 brew install --cask visual-studio-code
-brew install --cask authy
 brew install --cask github
 brew install --cask deepl
 zoom install --cask zoom
