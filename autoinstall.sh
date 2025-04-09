@@ -89,7 +89,7 @@ brew install --cask microsoft-edge
 brew install --cask visual-studio-code
 brew install --cask github
 brew install --cask deepl
-zoom install  zoom
+brew install zoom
 brew install --cask cmd-eikana
 brew install microsoft-teams
 
